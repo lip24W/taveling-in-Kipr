@@ -179,4 +179,38 @@ body{
         margin-left: 160px;
     }
     
-    
+    .life{
+    background-image: url(../img/Mask\ group\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position:center;
+    margin-top: 1px;
+}
+.life h1{
+    font-family: 'Merriweather';
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 60px;
+    padding-top: 426px;
+    text-align: center;
+}
+.life p{
+    font-family: 'Lato';
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    letter-spacing: 4px;
+}
+.life .play{
+    display: flex;
+    justify-content: center;
+    margin-top: 151px;
+}
+.life .imgs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 180px;
+}
+
+
