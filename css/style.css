@@ -595,7 +595,7 @@ body{
 }
 .join .obrsv .input label{
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 .join .button{
     display: flex;
@@ -621,5 +621,78 @@ body{
     background-color: #ff5e00;
 }
 
+
+footer{
+    background-color: #151C21;
+}
+.footer{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer .center{
+    display: flex;
+}
+.footer .logo{
+    margin-left: 100px;
+}
+.footer .call{
+    margin-right: 120px;
+}
+.footer .email{
+    margin-right: 120px;
+}
+.footer .office{
+    margin-right: 100px;
+}
+.footer h1{
+    margin-top: 36px;
+    font-family: 'Lato';
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.footer p{
+    margin-top: 10px;
+    font-family: 'Lato';
+    font-weight: 400;
+    color: #BBBBBB;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.footer .text{
+    margin-top: 0;
+}
+footer .line{
+    border: 2px solid #414141;
+    margin-top: 60px;
+}
+.copiraght{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.copiraght h1{
+    font-family: 'Lato';
+    font-weight: 400;
+    color: #BBBBBB;
+    font-size: 16px;
+}
+.copiraght p{
+    font-family: 'Lato';
+    font-weight: 300;
+    color: #9c9c9c;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.copiraght img{
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.copiraght .imgs{
+    margin-bottom: 80px;
+}
 
 
