@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+body{
+    background-color: #FFFFFF;
+}
+.head{
+    background-image: url(../img/BG.png);
+    height: 1120px;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #F87932;
+    height: 100%;
+    font-weight: 700;
+    padding: 16px 24px;
+    background-color: #FFFFFF;
+    border-radius: 0px 0px 15px 15px;
+    letter-spacing: 5px;
+    transition: .5s;
+    margin-left: 31.5px;
+    margin-right: 31.5px;
+}
+.nav a:hover{
+    padding: 36px 24px;
+    box-shadow: #FFFFFF 0 0 20px;
+    transition: .5s;
+}
+.nav img{
+    padding: 16px 43px;
+    background-color: #FFFFFF;
+    border-radius: 0px 0px 15px 15px;
+    margin-left: 31.5px;
+    margin-right: 31.5px;
+    transition: .5s;
+}
+.nav img:hover{
+    box-shadow: #FFFFFF 0 0 20px;
+    transition: .5s;
+}
+.nav{
+    display: flex;
+    justify-content: center;}
+
+    .romb{
+        position: absolute;
+    }
+    
+    
+    .travel-nazv{
+        font-size: 80px;
+        color: #39BFA7;
+        font-family: 'Merriweather';
+        margin-top: 160px;
+        margin-left: 90px;
+        font-weight: 500;
+    }
+    .travel-nazv .orange-span{
+        color: #F87932;
+        font-family: 'Merriweather';
+    }
+    .bloc-traveling button{
+        color: #FFFFFF;
+        letter-spacing: 5px;
+        padding: 16px 24px;
+        background-color: #F87932;
+        font-size: 20px;
+        font-weight: 600;
+        margin-top: 80px;
+        margin-left: 90px;
+        transition: .5s;
+    }
+    .bloc-traveling button:hover{
+        box-shadow: #00ffd0 0 0 100px;
+        transition: 1s;
+        border-radius: 100px;
+        background-color: #ff5e00;
+    }
+    .bloc-traveling{
+        display: flex;
+    }
+    .traveling-right .main-romb0{
+        margin-left: 45px;
+        margin-top: 70px;
+        position: absolute;
+    }
+    .traveling-right .romb1{
+        position: absolute;
+        margin-top: 51px;
+        margin-left: 458px;
+    }
+    .traveling-right .romb2{
+        position: absolute;
+        margin-top: 284px;
+        margin-left: 558px;
+    }
+    .traveling-right .romb3{
+        position: absolute;
+        margin-top: 377px;
+        margin-left: 404px;
+    }
+    .traveling-right .romb4{
+        position: absolute;
+        margin-top: 542px;
+        margin-left: 290px;
+    }
+    .traveling-right .romb5{
+        position: absolute;
+        margin-top: 484px;
+        margin-left: 36px;
+    }
+    
