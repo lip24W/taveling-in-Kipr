@@ -445,6 +445,72 @@ body{
     border-radius: 100px;
     background-color: #ff5e00;
 }
+.roadmap .text{
+    display: flex;
+    justify-content: center;
+}
+.hikes h1{
+    margin-top: 62px;
+    color:#39BFA7;
+    font-weight: 400;
+    font-family: 'Sedgwick Ave';
+    font-size: 60px;
+    margin-right: 134px;
+}
+.hikes{
+    display: flex;
+    justify-content: center;
+}
+.hikes h2{
+    font-family: 'Sedgwick Ave';
+    color: #FFFFFF;
+    font-size: 80px;
+    font-weight: 400;
+    margin-right: 26px;
+}
+.hikes h3{
+    font-family: 'Sedgwick Ave';
+    font-size: 20px;
+    color: #969696;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.hikes p{
+    width: 100%;
+    font-family: 'Merriweather';
+    font-size: 30px;
+    font-weight: 900;
+    color: #DDDDDD;
+    text-align: start;
+    margin-top: 0;
+}
+.person{
+    display: flex;
+    margin-bottom: 55px
+}
+.person1{
+    margin-top: 67px;
+}
+.roadmap .button{
+    display: flex;
+    justify-content: center;
+}
+.roadmap button{
+    color: #FFFFFF;
+    letter-spacing: 5px;
+    padding: 16px 24px;
+    background-color: #F87932;
+    font-size: 20px;
+    font-weight: 600;
+    transition: .5s;
+    margin-bottom: 50px;
+}
+.roadmap button:hover{
+    box-shadow: #00ffd0 0 0 100px;
+    transition: 1s;
+    border-radius: 100px;
+    background-color: #ff5e00;
+}
 
 
 
