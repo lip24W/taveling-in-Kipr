@@ -206,17 +206,35 @@ body{
     text-align: center;
     letter-spacing: 4px;
 }
-.life .play{
+.life .play img{
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 151px;
+    width: 20%;
+    margin-left: 40%;
 }
 .life .imgs{
     display: flex;
-    justify-content: space-between;
-    margin-top: 180px;
+    justify-content: center;
+    margin-top: 100px;
+   
+    
 }
 
+.life .img1{
+    width: 300px;
+}
+
+.life .img2{
+    width: 300px;
+}
+.life .img3{
+    width: 300px;
+}
+.life .img4{
+    width: 300px;
+}
 
 .blog h1{
     font-family: 'Montserrat';
@@ -633,8 +651,9 @@ footer{
 .footer .center{
     display: flex;
 }
-.footer .logo{
+.footer .logo img{
     margin-left: 100px;
+    width: 60px;
 }
 .footer .call{
     margin-right: 120px;
